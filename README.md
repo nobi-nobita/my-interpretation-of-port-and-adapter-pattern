@@ -1,0 +1,1 @@
+# my-interpretation-of-port-and-adapter-pattern
